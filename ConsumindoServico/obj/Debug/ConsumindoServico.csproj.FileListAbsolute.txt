@@ -1,0 +1,8 @@
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.Cache
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\marcos.borges\Documents\Fontes\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.pdb

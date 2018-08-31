@@ -1,0 +1,5 @@
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Passagens\obj\Debug\Passagens.pdb

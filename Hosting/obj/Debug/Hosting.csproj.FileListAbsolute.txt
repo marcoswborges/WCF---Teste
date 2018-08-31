@@ -1,0 +1,9 @@
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Oracle.DataAccess.dll
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Users\marcos.borges\Documents\Fontes\Passagens\Hosting\obj\Debug\Hosting.pdb
